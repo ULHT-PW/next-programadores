@@ -8,7 +8,8 @@ body {
 }
 
 main {
-  background: white;
+  background: purple;
+  color: white;
   padding: 20px;
   width: 400px;
   height: 400px;
