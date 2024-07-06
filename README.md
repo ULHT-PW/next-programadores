@@ -2,7 +2,8 @@
 
 This app is running in Vercel, https://next-programadores.vercel.app/
 
-<img width="566" alt="image" src="https://github.com/ULHT-PW/next-programadores/assets/42048382/701d2f19-0a01-4345-957d-5661a9e9dfa4">
+<img width="474" alt="image" src="https://github.com/ULHT-PW/next-programadores/assets/42048382/21a07463-82cc-4cac-9cbc-088206509b98">
+
 
 
 
